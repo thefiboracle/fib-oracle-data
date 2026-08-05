@@ -3,3 +3,4 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,subject,notes
 2026-08-04,07:08,59,BROKEN,1.00,quiet,street,on-lead,001,
 2026-08-04,07:17,161,BROKEN,1.00,quiet,street,on-lead,001,marginal 19 deg off S
 2026-08-05,15:12,154,BROKEN,0.67,quiet,beach path,on-lead,001,coastal path runs NNW-SSE
+2026-08-06,07:58,260,BROKEN,0.67,quiet,street,on-lead,001,maximum possible deviation from N-S axis
