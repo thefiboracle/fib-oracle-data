@@ -41,3 +41,17 @@ the effect is absent in this subject under these conditions.
 
 These definitions will not be changed after seeing more data.
 Any change will be committed separately, dated, and announced in advance.
+## AMENDMENT 1 — 8 August 2026
+
+Correction. The original document described the alignment window as
+"+/-20 degrees" and calculated chance alignment at 22.2% from an 80-degree window.
+
+Both were wrong. The stated numeric windows — 350-010 and 170-190 — total
+40 degrees, which is +/-10 degrees either side of the axis. Chance alignment
+is therefore 11.1%.
+
+The numeric windows are unchanged and have been applied correctly to every
+reading to date. No ruling changes. Only the description and the chance
+figure are corrected.
+
+This makes the test harder to pass, not easier.
