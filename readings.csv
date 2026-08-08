@@ -7,3 +7,5 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,subject,notes
 2026-08-07,07:11,180,ALIGNED,0.33,quiet,park,off-lead,001,first off-lead reading, exact due south
 2026-08-07,20:10,337,BROKEN,1.67,quiet,park,off-lead,001,first evening reading, 23 deg off N
 2026-08-08,07:35,160,BROKEN,0.33,quiet,street,on-lead,001,20 deg off S, would have counted under original window
+2026-08-08,16:12,101,BROKEN,1.67,quiet,open field,off-lead,001,no photograph
+2026-08-08,16:27,6,ALIGNED,1.67,quiet,open field,off-lead,001,second event 15 min after first
