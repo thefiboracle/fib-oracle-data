@@ -63,12 +63,12 @@ a:focus-visible,button:focus-visible{outline:3px solid var(--amber);outline-offs
 }
 
 h1{
-  font:700 clamp(48px,9.5vw,96px)/0.86 var(--disp);
-  text-transform:uppercase;letter-spacing:.005em;
-  margin:0 0 24px;
-  text-shadow:2px 2px 0 rgba(168,69,30,.42);
+  font:600 clamp(32px,5.2vw,54px)/1.02 var(--disp);
+  text-transform:uppercase;letter-spacing:.012em;
+  margin:0 0 22px;
+  text-shadow:1px 1px 0 rgba(168,69,30,.3);
 }
-h1 em{display:block;font-style:normal;color:var(--rust);text-shadow:2px 2px 0 rgba(36,31,26,.25)}
+h1 em{display:block;font-style:normal;color:var(--rust);text-shadow:1px 1px 0 rgba(36,31,26,.18)}
 
 .standfirst{font-size:18px;max-width:40ch;margin:0 0 26px;color:var(--ink-soft)}
 
@@ -157,6 +157,13 @@ tbody tr:last-child td{border-bottom:0}
   filter:sepia(.42) saturate(.75) contrast(1.04);
 }
 
+
+.stamp{
+  border:2px solid var(--rust);color:var(--rust);
+  padding:6px 12px;transform:rotate(-1.5deg);
+  font:600 11.5px/1 var(--mono);letter-spacing:.2em;text-transform:uppercase;
+  opacity:.8;
+}
 footer{padding:34px 0 60px;font:500 11.5px/1.9 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft)}
 footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
 
@@ -185,8 +192,8 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
 <header class="hero">
   <div class="wrap">
     <div>
-      <p class="eyebrow">Magnetic alignment record · est. August 2026</p>
-      <h1>The oracle<em>does not fib</em></h1>
+      <p class="eyebrow">Form MA-1 · Subject 001 · Commenced 3 August 2026</p>
+      <h1>Record of daily<em>magnetic alignment</em></h1>
       <p class="standfirst">Daily magnetic alignment readings from a one-year-old Border Collie. Public dataset, pre-registered hypothesis, exit terms published before launch.</p>
       <div class="latest" id="latest">
         <div class="row"><span class="k">Reading</span><span class="v">loading…</span></div>
@@ -245,6 +252,7 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
 
 <footer>
   <div class="wrap">
+    <span class="stamp">He does not fib</span>
     <span id="foot">Readings reported as observed</span>
     <span><a href="https://github.com/thefiboracle/fib-oracle-data">Repository</a></span>
   </div>
