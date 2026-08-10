@@ -12,3 +12,4 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,subject,notes
 2026-08-09,07:49,4,ALIGNED,5.67,storm,grass,on-lead,001,first geomagnetic storm on record, aligned during disturbance
 2026-08-09,08:00,323,BROKEN,5.67,storm,grass,on-lead,001,second storm event 11 min after first, 41 deg apart
 2026-08-10,07:15,31,BROKEN,1.33,quiet,park grass,off-lead,001,field settled after G2 storm
+2026-08-11,06:40,299,BROKEN,0.33,quiet,street grass,on-lead,001,quietest field recorded to date
