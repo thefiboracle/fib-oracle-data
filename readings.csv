@@ -14,3 +14,4 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,subject,notes
 2026-08-10,07:15,31,BROKEN,1.33,quiet,park grass,off-lead,001,field settled after G2 storm
 2026-08-11,06:40,299,BROKEN,0.33,quiet,street grass,on-lead,001,quietest field recorded to date
 2026-08-12,07:04,242,BROKEN,1.67,quiet,street grass,on-lead,001,62 deg off axis, near-mirror of previous reading
+2026-08-13,06:35,288,BROKEN,1.33,quiet,street grass,on-lead,001,third consecutive wide miss on quiet field
