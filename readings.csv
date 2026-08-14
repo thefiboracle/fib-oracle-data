@@ -1,4 +1,4 @@
-date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,subject,notes
+date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,street_bearing_deg,angle_to_street,subject,notes,sol_close
 2026-08-03,07:40,102,BROKEN,2.67,quiet,street,on-lead,001,first reading
 2026-08-04,07:08,59,BROKEN,1.00,quiet,street,on-lead,001,
 2026-08-04,07:17,161,BROKEN,1.00,quiet,street,on-lead,001,marginal 19 deg off S
@@ -19,3 +19,5 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,subject,notes
 2026-08-14,22:13,330,BROKEN,1.33,quiet,street,on-lead,001,closest miss since the storm, 20 deg outside window
 2026-08-15,07:22,292,BROKEN,1.67,quiet,street,on-lead,001,sixth consecutive miss
 2026-08-15,15:59,195,BROKEN,2.67,quiet,street,on-lead,001,seventh consecutive miss, 5 deg outside window
+2026-08-16,07:27,238,BROKEN,2.00,quiet,street,on-lead,320,82,001,eighth consecutive miss; near-perpendicular to street,
+2026-08-16,08:01,92,BROKEN,2.00,quiet,park,off-lead,,,001,second event 34 min after first; ninth consecutive miss,
