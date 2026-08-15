@@ -135,3 +135,10 @@ the same rule that applies to Hypothesis I.
 We are treating a joke with the same procedure as the real question. That is
 deliberate. If the procedure only applies when the answer matters, it is not
 a procedure.
+
+
+## AMENDMENT 1 — 16 August 2026
+
+SOL close is taken from the Close column of CoinGecko's Solana historical data
+page, which applies dates in UTC. Committed before any price observations were
+recorded.
