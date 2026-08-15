@@ -16,8 +16,8 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,street_bearing_
 2026-08-12,07:04,242,BROKEN,1.67,quiet,street grass,on-lead,001,62 deg off axis, near-mirror of previous reading
 2026-08-13,06:35,288,BROKEN,1.33,quiet,street grass,on-lead,001,third consecutive wide miss on quiet field
 2026-08-13,16:33,234,BROKEN,2.00,quiet,park,on-lead,001,fourth consecutive miss
-2026-08-14,22:13,330,BROKEN,1.33,quiet,street,on-lead,001,closest miss since the storm, 20 deg outside window
-2026-08-15,07:22,292,BROKEN,1.67,quiet,street,on-lead,001,sixth consecutive miss
-2026-08-15,15:59,195,BROKEN,2.67,quiet,street,on-lead,001,seventh consecutive miss, 5 deg outside window
-2026-08-16,07:27,238,BROKEN,2.00,quiet,street,on-lead,320,82,001,eighth consecutive miss; near-perpendicular to street,
-2026-08-16,08:01,92,BROKEN,2.00,quiet,park,off-lead,,,001,second event 34 min after first; ninth consecutive miss,
+2026-08-13,22:13,330,BROKEN,1.33,quiet,street,on-lead,001,closest miss since the storm, 20 deg outside window
+2026-08-14,07:22,292,BROKEN,1.67,quiet,street,on-lead,001,sixth consecutive miss
+2026-08-14,15:59,195,BROKEN,2.67,quiet,street,on-lead,001,seventh consecutive miss, 5 deg outside window
+2026-08-15,07:27,238,BROKEN,2.00,quiet,street,on-lead,320,82,001,eighth consecutive miss; near-perpendicular to street,
+2026-08-15,08:01,92,BROKEN,2.00,quiet,park,off-lead,,,001,second event 34 min after first; ninth consecutive miss,
