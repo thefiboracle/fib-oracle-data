@@ -21,3 +21,4 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,street_bearing_
 2026-08-14,15:59,195,BROKEN,2.67,quiet,street,on-lead,001,seventh consecutive miss, 5 deg outside window
 2026-08-15,07:27,238,BROKEN,2.00,quiet,street,on-lead,320,82,001,eighth consecutive miss; near-perpendicular to street,
 2026-08-15,08:01,92,BROKEN,2.00,quiet,park,off-lead,,,001,second event 34 min after first; ninth consecutive miss,
+2026-08-16,07:54,320,BROKEN,2.67,quiet,beach path,on-lead,310,10,001,almost exactly along path axis; tenth consecutive miss,
