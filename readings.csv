@@ -28,3 +28,4 @@ date,time_aest,bearing_deg,alignment,kp,field_state,surface,lead,street_bearing_
 2026-08-17,07:19,265,BROKEN,3.67,unsettled,street,on-lead,303,38,001,fourteenth consecutive miss,
 2026-08-17,07:28,24,ALIGNED,5.33,storm,street,on-lead,140,64,001,second storm on record; aligned during disturbance,
 2026-08-18,07:14,134,BROKEN,2.33,quiet,street,on-lead,140,6,001,near-parallel to path axis,
+2026-08-19,07:32,264,BROKEN,3.33,unsettled,beach path,on-lead,303,39,001,near-maximum deviation from axis,
